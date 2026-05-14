@@ -1,0 +1,6 @@
+ls - lista arquivos
+cd - muda de pasta(cd .. volta a pasta anterior)
+mkdir - cria pasta
+touch - cria um arquivo(touch comandos.txt criou esse arquivo de texto)
+Ctrl + 0 - salva a edição do arquivo
+Ctrl + x - para sair do editor(nano)
